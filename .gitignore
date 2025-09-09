@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+*.log
+*.swp
+.DS_Store
+
+# Ignore Raspberry Pi system configs
+.cache/
+.config/
+.local/
+.vscode/
+*.history
