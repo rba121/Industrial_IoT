@@ -1,0 +1,3 @@
+Always stop your script with Ctrl+C instead of Ctrl+Z.
+
+If you accidentally Ctrl+Z, resume it with fg then stop properly with Ctrl+C.

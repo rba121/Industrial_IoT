@@ -13,3 +13,9 @@ __pycache__/
 .local/
 .vscode/
 *.history
+
+# Ignore virtual environments
+iot-env/
+venv/
+env/
+
