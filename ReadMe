@@ -1,0 +1,4 @@
+• Designed an anomaly detection system for motors using vibration and microphone sensors for predictive maintenance. 
+• Trained and deployed autoencoder models in PyTorch, reducing inference latency to <50 ms for real-time detection. 
+• Implemented multi-threaded data acquisition and pre-processing in C++ on ESP32 (dual-core MCU with Wi-Fi). 
+• Automated sensor validation using Python scripts and hardware tests for better performance runs.
